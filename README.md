@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Roderick Rabelo 👋
+# Hi there 👋
 
 ### Engineer | Automation Enthusiast | AI Workflow Architect
 
 [![Website](https://img.shields.io/badge/Website-rodytech.net-blue?style=for-the-badge&logo=google-chrome)](https://www.rodytech.net)
 [![Email](https://img.shields.io/badge/Email-rrabelo1@rodytech.net-red?style=for-the-badge&logo=gmail)](mailto:rrabelo1@rodytech.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 </div>
 
@@ -19,8 +18,6 @@ I'm a passionate engineer and automation nerd focused on building **AI-driven wo
 🌟 **Mission:** Delivering expert automation services at introductory rates with security-first, open-source, and tailored solutions.
 
 💡 **Philosophy:** Building production-ready, scalable automation systems that integrate seamlessly with existing workflows.
-
-📍 **Location:** Iowa, USA
 
 ---
 
